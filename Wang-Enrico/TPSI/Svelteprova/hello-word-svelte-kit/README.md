@@ -15,7 +15,7 @@ To recreate this project with the same configuration:
 
 ```sh
 # recreate this project
-npx sv@1.1.0 create --template demo --no-types --add enhanced-img --install npm hello-word-svelte-kit
+npx sv@1.1.0 create --template minimal --no-types --install npm hello-word-svelte-kit
 ```
 
 ## Adding features
